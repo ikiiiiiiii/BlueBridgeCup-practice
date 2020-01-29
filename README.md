@@ -5,6 +5,7 @@
 + BASIC-16 分解质因数
 + BASIC-19 完美的代价(生成回文串的次数)
 + BASIC-20 数的读法
++ BASIC-21 Sine之舞
 + BASIC-27 2n皇后问题
 + BASIC-29 大数加法
 + BASIC-30 大数阶乘计算
