@@ -22,3 +22,5 @@
     + ALGO-122 未名湖边的烦恼
     + ALGO-128 Cowboys
     + ALGO-131 Beaver's Calculator
+    + ALGO-133 Tricky and Clever Password(感觉有点复杂，待填)
+    + ALGO-135 Multithreading
