@@ -21,3 +21,4 @@
     + ALGO-116 最大的算式
     + ALGO-122 未名湖边的烦恼
     + ALGO-128 Cowboys
+    + ALGO-131 Beaver's Calculator
