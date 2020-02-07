@@ -24,3 +24,4 @@
     + ALGO-131 Beaver's Calculator
     + ALGO-133 Tricky and Clever Password(感觉有点复杂，待填)
     + ALGO-135 Multithreading
+    + ALGO-137 Lift and Throw
